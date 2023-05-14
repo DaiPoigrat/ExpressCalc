@@ -1,0 +1,22 @@
+{
+  "name": "express-calc",
+  "version": "1.0.0",
+  "description": "rest calculator using Express + html/css",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaiPoigrat/ExpressCalc.git"
+  },
+  "author": "Kirill Ulianov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaiPoigrat/ExpressCalc/issues"
+  },
+  "homepage": "https://github.com/DaiPoigrat/ExpressCalc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
